@@ -1,0 +1,10 @@
+@import "@/scss/_variables.scss";
+
+.row{
+    margin: 0;
+  }
+  .home-div{
+    padding-top: 4rem;
+    min-height: 100vh;
+    background: $black-dark;
+  }

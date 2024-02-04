@@ -1,0 +1,12 @@
+{
+    "Navbar": {
+      "headline": "Chess"
+    },
+    "Sidebar": {
+      "headline": "Moves"
+    },
+    "Buttons": {
+      "reset": "Play again!"
+    } 
+}
+  
